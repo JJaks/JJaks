@@ -2,7 +2,7 @@
 My Name is Jaagop, I'm mainly a frontend developer who loves gaming simplicity and minimalism
 
 ### Skills ⚡
-Frontend developement, IT Systems & architecture
+Frontend developement, IT Systems & Architecture
 
 ### Technologies 🔭
 * Javascript
