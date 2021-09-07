@@ -1,8 +1,8 @@
 ### Hi there 👋
-My Name is Jaagop, I'm mainly a frontend developer who loves gaming simplicity and minimalism
+My Name is Jaagop, I'm mainly a Software Developer who loves gaming simplicity and minimalism
 
 ### Skills ⚡
-Frontend developement, IT Systems & Architecture
+Software developement, IT Systems & Architecture
 
 ### Stats & Technologies 🔭
 ![GitHub stats][github-stats]
