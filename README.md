@@ -1,5 +1,5 @@
 ### Hi there 👋
-My Name is Jaagop, I'm mainly a Software Developer who loves gaming simplicity and minimalism
+My Name is Jaagop, I'm a Software Developer who loves gaming, simplicity and minimalism
 
 ### Skills ⚡
 Software developement, IT Systems & Architecture
