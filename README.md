@@ -1,5 +1,5 @@
 ### Hi there 👋
-My Name is Jaagop, I'm a Software Developer who loves code, coffee and sleep.
+My Name is Jaagop, I'm a Software Developer who loves code, coffee, sleep and gaming.
 
 ### Skills ⚡
 Software developement, IT Systems & Architecture
