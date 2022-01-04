@@ -8,6 +8,7 @@ Software developement, IT Systems & Architecture
 ![GitHub stats][github-stats]
 ![Lang stats][lang-stats-api]
 ![trophy][trophy-api]
+[![committers.top badge](https://user-badge.committers.top/estonia/JJaks.svg)](https://user-badge.committers.top/estonia/JJaks)
 
 [profile-link]: https://github.com/JJaks
 [github-stats]: https://github-readme-stats.vercel.app/api?username=jjaks&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=00000000
