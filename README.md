@@ -24,7 +24,6 @@ Software developement, IT Systems & Architecture
 * Kubernetes
 * RabbitMQ
 * Vue
-* Magento
 
 
 ### Contact 📫
