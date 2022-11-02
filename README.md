@@ -1,8 +1,4 @@
-### Hi there 👋
-My Name is Jaagop, I'm a Full-stack Developer who loves code, coffee, sleep and gaming.
-
-### Skills ⚡
-Software developement, IT Systems & Architecture
+Software development
 
 ### Stats & Technologies 🔭
 ![GitHub stats][github-stats]
@@ -14,16 +10,6 @@ Software developement, IT Systems & Architecture
 [github-stats]: https://github-readme-stats.vercel.app/api?username=jjaks&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=00000000&hide=stars
 [lang-stats-api]: https://github-readme-stats.vercel.app/api/top-langs/?username=jjaks&layout=compact&langs_count=8&hide_border=true&theme=dark&bg_color=00000000
 [trophy-api]: https://github-profile-trophy.vercel.app/?username=jjaks&theme=gruvbox&no-bg=true&column=8&no-frame=true&row=3
-
-#### What I seek to improve on 🤔
-* C
-* C#
-* C++
-* Flutter
-* Bamboo
-* Kubernetes
-* RabbitMQ
-* Vue
 
 
 ### Contact 📫
