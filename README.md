@@ -1,6 +1,6 @@
+Website: [jaagop.eu](https://jaagop.eu/)
 
-- Website: [jaagop.eu](https://jaagop.eu/)
-- Email: dev@jaagop.eu
+Email: dev@jaagop.eu
 
 ---
 
