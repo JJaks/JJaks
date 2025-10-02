@@ -1,3 +1,5 @@
+![JJaks's GitHub stats](https://github-readme-stats-psi-six-47.vercel.app/api?username=jjaks&show_icons=true)
+
 Website: [jaagop.eu](https://jaagop.eu/)
 
 Email: dev@jaagop.eu
