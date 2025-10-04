@@ -1,4 +1,4 @@
-![JJaks's GitHub stats](https://github-readme-stats-psi-six-47.vercel.app/api?username=jjaks&show_icons=true)
+![JJaks's GitHub stats](https://github-readme-stats-psi-six-47.vercel.app/api?username=jjaks&show_icons=true&hide=stars,contribs)
 
 Website: [jaagop.eu](https://jaagop.eu/)
 
